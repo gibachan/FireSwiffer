@@ -1,2 +1,3 @@
 # FireSwiffer
-Sample Firebase app
+Sample Firebase app refered to https://www.youtube.com/watch?v=D0MuaFzoxng
+
